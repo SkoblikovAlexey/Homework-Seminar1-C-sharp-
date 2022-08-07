@@ -1,0 +1,15 @@
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\task2_(min, max).csproj.AssemblyReference.cache
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\task2_(min, max).GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\task2_(min, max).AssemblyInfoInputs.cache
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\task2_(min, max).AssemblyInfo.cs
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\task2_(min, max).csproj.CoreCompileInputs.cache
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\bin\Debug\net6.0\task2_(min, max).exe
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\bin\Debug\net6.0\task2_(min, max).deps.json
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\bin\Debug\net6.0\task2_(min, max).runtimeconfig.json
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\bin\Debug\net6.0\task2_(min, max).dll
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\bin\Debug\net6.0\task2_(min, max).pdb
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\task2_(min, max).dll
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\refint\task2_(min, max).dll
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\task2_(min, max).pdb
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\task2_(min, max).genruntimeconfig.cache
+D:\Work\GeekBrains\C#\Seminar 1 (homework)\task2_(min, max)\obj\Debug\net6.0\ref\task2_(min, max).dll
